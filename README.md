@@ -1,7 +1,7 @@
 # Mars Environment Descend & Traversal 
 The objective of this project is to evaluate the performance of multiple search algorithms in a Mars simulated environment.
 
-* The first task involves descending a crater.
+* The first task involves descending the following crater.
 
   <p align="center">
    <img src="https://drive.google.com/uc?export=view&id=1vOBBGjviDZe5JyeuIYg9n-7Va_XW0tXV"  width="550" height="auto">
